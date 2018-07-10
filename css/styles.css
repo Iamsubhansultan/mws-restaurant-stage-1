@@ -82,7 +82,9 @@ nav h1 a {
     margin: 0;
     width: calc(50% - 80px);
 }
-
+.accessibility-skip-link {
+	width: calc(50% - 80px);
+}
 /* Display list items side by side */
 #breadcrumb li {
     display: inline;
